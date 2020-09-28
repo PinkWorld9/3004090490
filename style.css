@@ -1,0 +1,26 @@
+body {
+	background-color: brown;
+	text-align: center;
+}
+
+h1 {
+	color: orange;
+}
+
+h2 {
+	color: orange;
+}
+
+
+
+.links{float: left;
+	color: orange;
+	padding-top: 0px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 400px;
+}
+
+.links:hover{background-color: indianred;
+
+}
