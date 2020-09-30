@@ -1,12 +1,16 @@
-body{background-color: lightyellow;
-text-align: center;
-	color: white;
-	font-size: 100px;
-	font-family: monospace;
-	padding-top: 200px;
-	
+body {
+	background-color: brown;
+	text-align: center;
+	font-size: 30px
 }
 
+h1 {
+	color: orange;
+}
+
+h2 {
+	color: orange;
+}
 .menu{list-style: none;
 font-family: monospace;
 	position: fixed;
@@ -14,19 +18,22 @@ font-family: monospace;
 	right: 30px;
 	z-index: 10px;
 	cursor: pointer;
-	color: white
-}
+	color: white;}
+
 
 .links{float: left;
-	color: white;
-	padding-top: -100px;
+	color: orange;
+	padding-top: 0px;
 	padding-left: 9px;
 	padding-right: 9px;
-	padding-bottom: 100px;
-	font-family: monospace;
-	font-size: 25px;
+	padding-bottom: 400px;
 }
 
-.links:hover{background-color: lightgoldenrodyellow;
+.links:hover{background-color: indianred;
 
+}
+
+#Aru{
+	width: 100px;
+	height: 150
 }
